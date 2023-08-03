@@ -2,9 +2,12 @@
 
 ## Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Ethan Pun
+- Jia Rong
+- Si Bin
+- Lucas
 
 <Description of your project>
+Scary Jumpscare
+Live Laugh Lucas
+Si Bin
