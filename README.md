@@ -2,9 +2,9 @@
 
 ## Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Noah
+- Ling Kai
+- Ming Cong
+- Jae Zen
 
 <Description of your project>
