@@ -4,7 +4,7 @@
 
 - Member 1
 - Member 2
-- Member 3
+- Saathvik
 - Member 4
 
 <Description of your project>
