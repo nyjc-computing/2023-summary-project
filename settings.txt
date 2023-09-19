@@ -1,0 +1,5 @@
+Sleep 0
+Music On
+Up Up
+Down Down
+Enter Return
