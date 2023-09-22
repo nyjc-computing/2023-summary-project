@@ -1,0 +1,209 @@
+Save True
+
+Room TheEndDimension
+
+Rooms Dirtmouth TheEndDimension
+
+Character
+
+name a
+health 100
+max_health 100
+spells WingardiumLeviosa VengefulSpirit 
+attack 0
+mana 50
+max_mana 50
+defence 0
+armour None
+armours NetheriteArmour 
+weapon Wand
+weapons Wand 
+accessory None
+accessories None
+health_flask 1
+mana_flask 1
+items None
+upgrades None
+shield None
+shields None
+money 100
+shop False
+shop_inventory ScotchWhiskey 
+gamble False
+additional_shop False
+completion 0
+
+Zebes
+
+enemy None
+loot None
+secret False
+
+KingdomofKu
+
+enemy None
+loot None
+secret False
+
+Bunker
+
+enemy None
+loot BlackBox
+secret False
+
+GreenhillZone
+
+enemy None
+loot None
+secret False
+
+TheMushroomKingdom
+
+enemy None
+loot None
+secret True
+
+Asphodel
+
+enemy None
+loot None
+secret False
+
+Commencement
+
+enemy None
+loot None
+secret False
+
+WalledCity99
+
+enemy None
+loot FlaskofCeruleanTears
+secret False
+
+Mementos
+
+enemy None
+loot None
+secret False
+
+ShoresofNine
+
+enemy None
+loot None
+secret False
+
+TheForge
+
+enemy None
+loot None
+secret True
+
+Midgar
+
+enemy None
+loot None
+secret False
+
+Dirtmouth
+
+enemy None
+loot FlaskofCeruleanTears
+secret True
+
+TheEndDimension
+
+enemy None
+loot FlaskofCrimsonTears
+secret False
+
+TheShriekingShack
+
+enemy Voldemort
+loot FlaskofCrimsonTears
+secret False
+
+HyruleKingdom
+
+enemy None
+loot None
+secret True
+
+CelestialResort
+
+enemy None
+loot FlaskofCeruleanTears
+secret False
+
+Ascent
+
+enemy Reyna
+loot FlaskofCeruleanTears
+secret False
+
+6thCircleofHell
+
+enemy Gabriel,ApostateofHate
+loot RoboticArm
+secret False
+
+TowerofFate
+
+enemy Enchantress
+loot FlaskofCrimsonTears
+secret False
+
+Miquella'sHaligtree
+
+enemy Malenia,BladeofMiquella
+loot RustyKey
+secret False
+
+TheHallow
+
+enemy TheMoonLord
+loot FlaskofCrimsonTears
+secret False
+
+TheObraDinn
+
+enemy TheKraken
+loot FlaskofCeruleanTears
+secret False
+
+Kamurocho
+
+enemy Shibusawa
+loot FlaskofCeruleanTears
+secret False
+
+Snowdin
+
+enemy None
+loot FlaskofCrimsonTears
+secret False
+
+TheAstralPlane
+
+enemy None
+loot FlaskofCrimsonTears
+secret False
+
+TheSealedTemple
+
+enemy TheHeir
+loot DectusMedallion(right)
+secret False
+
+TheLastResort
+
+enemy None
+loot FlaskofCrimsonTears
+secret False
+
+ApertureLab
+
+enemy None
+loot FlaskofCrimsonTears
+secret False
+
